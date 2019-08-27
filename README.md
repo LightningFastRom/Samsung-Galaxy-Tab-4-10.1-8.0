@@ -49,3 +49,6 @@ Just remember fork your device as you have or all of them along with the device 
 
 1. **Kernel Source For both devices**
 [android_kernel_samsung_matisse](https://github.com/matissewifi/android_kernel_samsung_matisse)
+
+
+#### Files Needed To Build Official LightFastRom Nouget Branch For The  Samsung Galaxy Tab 4 10.1/8.0 Devices
