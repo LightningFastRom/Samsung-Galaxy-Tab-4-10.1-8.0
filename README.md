@@ -49,3 +49,6 @@ Just remember fork your device as you have or all of them along with the device 
 
 1. **Kernel Source For both devices**
 [android_kernel_samsung_matisse](https://github.com/matissewifi/android_kernel_samsung_matisse)
+
+# Do not use these any of files as the Official LightFastRom version of Oreo is still  not ready yet!!!!
+#### Files Needed To Build Official LightFastRom Oreo Branch For The  Samsung Galaxy Tab 4 10.1/8.0 Devices
